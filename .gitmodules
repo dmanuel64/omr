@@ -1,0 +1,3 @@
+[submodule "vendor/smt"]
+	path = vendor/smt
+	url = https://github.com/antoniorv6/SMT.git
