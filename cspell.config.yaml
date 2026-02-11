@@ -1,0 +1,14 @@
+version: "0.2"
+language: en
+dictionaryDefinitions: []
+dictionaries:
+  - python
+  - rust
+  - rust-crates
+  - softwareTerms
+  - sql
+words: []
+ignoreWords: []
+import: []
+useGitignore: true
+ignoreRandomStrings: true
