@@ -224,3 +224,12 @@ __marimo__/
 
 # Local OMR models
 models/
+
+# Model checkpoints
+checkpoints/
+
+# ONNX models
+*.onnx
+
+# SAM checkpoints
+*.pth
